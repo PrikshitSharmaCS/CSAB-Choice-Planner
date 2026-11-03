@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node and frontend build output
+frontend/node_modules/
+frontend/dist/
+
+# Local runtime output
+server_stdout.log
+server_stderr.log
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
